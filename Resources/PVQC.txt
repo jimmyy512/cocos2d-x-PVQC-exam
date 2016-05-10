@@ -1,0 +1,646 @@
+﻿1	access point	無線網路存取器；無線基地台
+2	access time	存取時間
+3	accounting information system	會計資訊系統
+4	Acer	宏碁
+5	act	法案
+6	administrator	管理員；監督人
+7	ADSL	非對稱數位用戶迴路
+8	adware	廣告軟體
+9	agent	代理人；特工人員
+10	AI	人工智慧
+11	algorithm	演算法
+12	all rights reserved	版權所有
+13	ALU	算術邏輯單元
+14	analog	類比；類似物
+15	analysis	分析
+16	Android	安卓
+17	ANSI	美國國家標準協會
+18	antivirus	防毒
+19	antivirus software	防毒軟體
+20	Apple	蘋果
+21	architecture	架構
+22	array	陣列
+23	ASCII	美國資訊交換標準碼
+24	ASP	應用服務供應商
+25	asset	資產
+26	ASUS	華碩
+27	auction	拍賣
+28	audio	音訊
+29	audit	審核；審計；查帳
+30	authority	權威；權力
+31	autocomplete	自動完成
+32	autoformat	自動套用格式
+33	autosum	自動加總
+34	B2G	企業對政府之間的相互交易
+35	back color	背景顏色
+36	back up data	備份資料
+37	backbone	骨幹網路
+38	bandwidth	頻寬
+39	base	基底
+40	baseband transmmission	基頻傳輸
+41	batch processing	批次處理
+42	battery	電池
+43	BBS	電子佈告欄系統
+44	benefit	效益
+45	biometrics	生物測定學；生物計量學
+46	BIOS	基本輸入輸出系統
+47	bit	位元
+48	bitmap	點陣圖
+49	blog	部落格
+50	bluetooth	藍芽（牙）
+51	bps	每秒的位元數
+52	bridge	橋接器
+53	broadband	寬頻；寬頻帶
+54	broadband transmission	寬頻傳輸
+55	broadcast	廣播
+56	broker	仲介商；經紀人
+57	browser	瀏覽器
+58	buffer	緩衝器
+59	bug	臭蟲；程式錯誤
+60	bulletin board system	電子佈告欄系統
+61	business	企業或商務
+62	business intelligence	商業智慧
+63	business model	商業模式
+64	business process and operation	企業流程與營運
+65	byte	位元組
+66	C2C	消費者對消費者之間的相互交易
+67	CA1	認證機構；憑證授權
+68	cache	快取
+69	cache memory	快取記憶體
+70	CAI	電腦輔助教學
+71	call	呼叫
+72	catalog	型錄
+73	CD-R	可錄式光碟
+74	cell	儲存格
+75	cell phone	行動電話
+76	central processing unit	中央處理單元
+77	certificate	憑證；認證
+78	certificate authority	憑證授權；認證機構
+79	character	字元；特性
+80	chat	聊天
+81	chief information officer	資訊長
+82	child domain	子網域
+83	CIO	資訊長
+84	click	按下的聲音
+85	client	用戶端；客戶端
+86	client-server LAN	主從式區域網路
+87	clone computer	克隆電腦；複製的電腦
+88	cloud computing	雲端運算
+89	coaxial cable	同軸電纜
+90	co-location	主機代管
+91	communication	通訊；網路通訊
+92	community	社群
+93	compatible	相容的
+94	compile	編譯
+95	computer crime	電腦犯罪
+96	computer forensics	電腦鑑識
+97	computer monitoring	電腦監控
+98	computer software	電腦軟體
+99	computer vision	電腦視力；電腦視覺
+100	computer-aided design	電腦輔助設計
+101	computer-aided manufacturing	電腦輔助製造
+102	computer-assisted instruction	電腦輔助教學
+103	computing	運算
+104	conference call	網路電話會議
+105	confidentiality	機密性
+106	constant	常數
+107	content	內容
+108	content management	內容管理
+109	control unit	控制單元
+110	control	控制
+111	conversion	轉換
+112	copyright	版權；著作權
+113	core	核心
+114	cost	成本
+115	CPU	中央處理單元
+116	cracker	怪客；破壞者
+117	critical thinking	批判性思考
+118	CRM	顧客關係管理
+119	CTO	科技長
+120	culture	文化
+121	customer relationship management	顧客關係管理
+122	customization	客製化
+123	cyber	網路的；電腦的
+124	cycle	週期；循環
+125	dashboard	儀錶板
+126	data	資料
+127	data bus	資料匯流排
+128	data center	資訊中心
+129	data conversion	資料轉換
+130	data definition	資料定義
+131	data dictionary	資料字典
+132	data flow	資料流
+133	data fiow diagram	資料流程圖
+134	data integration	資料整合
+135	data management	資料管理
+136	data management software	資料管理軟體
+137	data manipulation	資料操縱
+138	data mining	資料探勘；資料挖掘
+139	data processing	資料處理
+140	data redundancy	資料重複
+141	data structure	資料結構
+142	data transfer rate	資料傳輸率
+143	data warehouse	資料倉儲
+144	data worker	資料工作者
+145	database	資料庫
+146	database administrator	資料庫管理員
+147	data management system	資料庫管理系統
+148	database server	資料庫伺服器
+149	data-driven	資料導向
+150	datagram	數據包；資料包
+151	date	日期
+152	DB	資料庫
+153	DBA	資料庫管理員
+154	DBMS	資料庫管理系統
+155	DDoS	分裂散式阻斷服務
+156	debug	除錯；偵錯
+157	decision support system	決策支援系統
+158	decryption	解密
+159	deep packet	深層封包
+160	demand	需求
+161	design	設計
+162	desktop	桌面
+163	desktop computer	桌上電腦
+164	detection system	偵測系統
+165	development	開發；發展
+166	DFD	資料流程圖
+167	diagram	圖表；圖解
+168	digital	數位
+169	digital asset	數位資產
+170	digital camera	數位相機
+171	digital certificate	數位憑證
+172	digital content	數位內容
+173	digital divide	數位區隔；數位落差
+174	digital signal	數位信號
+175	digital video disc	數位影音光碟
+176	direct	直接的；坦白的
+177	disaster	災難
+178	disaster recovery	災難復原
+179	disk cache	磁碟快取
+180	display	顯示器
+181	disruptive	破壞性的；分裂的
+182	disruptive technology	破壞性科技
+183	distance instruction	遠距教學
+184	distribute	分散；分配
+185	distributed	分散式
+186	distributed processing	分散式處理
+187	distributed processing system	分散式處理系統
+188	DIY	自己做
+189	DNS	網域名稱系統
+190	do it yourself	自己做
+191	documentation	使用說明
+192	domain	網域；領域；範圍
+193	domain name	網域名稱
+194	domain name system	網域名稱系統
+195	domestic exporter	出口商
+196	DOS	磁片作業系統
+197	DoS	阻斷服務
+198	double click	按兩下
+199	download	下載
+200	download information	下載資料
+201	downstream	下游的；下傳的
+202	downstream data	下游的資料
+203	downtime	停機時間
+204	doze mode	休眠模式
+205	DPI	每英吋的點數；解析度
+206	DRAM	動態隨機存取記憶體
+207	drill down	向下探究；詳細分解
+208	DSL	數位用戶路線；
+209	DSS	決策支援系統
+210	due	應有的；到期的
+211	duplication	複製
+212	DVD	數位多功能光碟
+213	dynamic	動態的
+214	e-book	電子書
+215	e-business	電子化企業
+216	EC	電子商務
+217	e-commerce	電子商務
+218	EFT	電子金融轉帳
+219	e-government	電子化政府
+220	EIS	高階主管資訊系統
+221	e-learning	數位學習
+222	electronic business	電子化企業
+223	electronic commerce	電子商務
+224	electronic government	電子化政府
+225	electronic payment services	電子付費服務
+226	electronic payment system	電子付款服務
+227	electronic signature	電子簽章
+228	e-mail	電子郵件
+229	encryption	加密
+230	end users	終端使用者
+231	engineering	工程
+232	enterprise	企業
+233	enterprise information portal	企業資訊入口網站
+234	entity relationship	實體關係
+235	EPS	電子付費服務
+236	ERP	企業資源規劃
+237	ES	專家系統
+238	Ethernet	乙太網路
+239	exchange	交易
+240	executable code	可執行碼
+241	executive	行政主管；決策者
+242	executive information system	高階主管資訊系統
+243	Facebook	臉書
+244	FALSE	假
+245	FAT	檔案配置表
+246	feedback	回饋
+247	fiber	光纖
+248	field	欄位或區域
+249	field name	欄位名稱
+250	FIFO	先進先出
+251	file	檔案
+252	file processing	檔案處理
+253	file type	檔案類型
+254	firewall	防火牆
+255	flash ROM	快閃記憶體
+256	flowchart	流程圖
+257	font	字型
+258	forensics	鑑識；辯論練習
+259	formatted disk	已格式化的磁碟
+260	frame	框架
+261	freeware	自由軟體；免費軟體
+262	FTP	檔案傳輸協定
+263	function	函數
+264	gateway	閘道器
+265	GB	十億位元組
+266	geographic information system	地理資訊系統
+267	GHz	十億赫茲
+268	gigabyte	十億位元組
+269	gigahertz	十億赫茲
+270	GlS	地理資訊系統
+271	global positioning system	全球定位系統
+272	GPS	全球定位系統
+273	graphics	圖形；製圖
+274	GUI	圖形化使用介面
+275	hacker	駭客
+276	hard disk	硬碟
+277	HDD	硬式磁碟機
+278	HDMl	高清晰度多謀體介面
+279	Hertz	赫茲
+280	hide	隱藏
+281	home page	首頁
+282	host	主機
+283	HTML	超文字標記語言
+284	hub	集線器
+285	hyperlink	超連結
+286	hypemedia	超媒體
+287	hypertext	超文件；超文字
+288	hypertext markup language	超文字標記語言
+289	hypertext transfer protocol	超文字傳輸協定
+290	IaaS	基礎建設即服務
+291	IC	積體電路
+292	icon	圖示
+293	ICT	資訊與網路通訊科技
+294	IEEE	國際電機電子工程協會
+295	IM	即時通訊
+296	image	影像
+297	impact	影響；衝擊
+298	implementation process	建置流程
+299	infomediary	資訊中介
+300	inform	告知後；通知
+301	information	資訊
+302	information and communication technology	資訊與網路通訊科技
+303	information appliance	資訊家電
+304	information processing	資訊處理
+305	information requirement	資訊需求
+306	information system	資訊系統
+307	information technology	資訊科技
+308	infrastructure	基礎建設
+309	infrastructure as a service	基礎建設即服務
+310	input	輸入
+311	input device	輸入設備
+312	input unit	輸入單元
+313	insertion sort	插入排序法
+314	installation	安裝
+315	instant messaging	即時通訊
+316	intangible	無形的；不明確的
+317	integrated circuit	積體電路
+318	integrated circuit card	ＩＣ卡
+319	integrated package	整合式套件
+320	integrity	完整性；完善；正直；誠實
+321	Intel	英特爾（公司名）
+322	intellectual property	智慧財產
+323	intelligence	智能；情報
+324	internal code	內碼
+325	internal modem	內置式數據機
+326	Internet	網際網路
+327	Internet bank	網路銀行
+328	Internet protocol	網際網路協定（IP）
+329	internetwork processor	跨網處理器
+330	iOS	一種iPhone手機的作業系統
+331	IP	網際網路協定
+332	IS	資訊系統
+333	ISBN	國際標準書號
+334	ISO	國際標準組織
+335	jumper	跳線（片或夾子）
+336	KB	千位元組（縮寫）
+337	key word	關鍵字
+338	keyboard	鍵盤
+339	KHz	千赫茲
+340	kilobyte	千位元組（KB）
+341	kilohertz	千赫茲
+342	knowledge engineer	知識工程師
+343	knowledge worker	知識工作者
+344	label	標籤
+345	LAN	區域網路
+346	language	語言
+347	laptop	膝上型電腦
+348	laser printer	雷射印表機
+349	LCD	液晶顯示器
+350	LED	發光二極體
+351	Lenovo	聯想
+352	life cycle	生命週期
+353	LIFO	後進先出
+354	light emitting diode	發光二極體
+355	Line	在線
+356	line interactive	在線互動式
+357	link	連結
+358	linker	連結程式
+359	Linux	一種免費的作業系統
+360	liquid crystal display	液晶顯示器
+361	literacy	素養
+362	loader	載入程式
+363	local area network	區域網路
+364	log off	登出
+365	log on	登入
+366	logical partition	邏輯分割區
+367	machine	機器
+368	Macintosh	麥金塔（電腦）
+369	macro	巨集
+370	main memory	主記憶體
+371	malicious program	惡意程式
+372	MAN	都會網路
+373	management	管理
+374	management information systems	資訊管理系統
+375	manipulation	操作；控制
+376	marketing	行銷
+377	marketplace	市集；集會場所
+378	MB	百萬位元組
+379	medium	媒體；媒介；
+380	megabyte	百萬位元組
+381	megahertz	百萬赫茲
+382	memory	記憶體
+383	memory unit	記憶單元
+384	menu	功能表
+385	message box	訊息視窗
+386	metadata	定義的資料；詮釋資料
+387	Metcalfe's law	梅特卡夫定律
+388	method	方法
+389	MHz	百萬赫茲
+390	microphone	麥克風
+391	microprocessor	微處理器
+392	microsecond	微秒
+393	Microsoft	微軟
+394	microwave	微波
+395	midrange system	中型系統
+396	millennium	千禧年
+397	millisecond	毫秒
+398	mobile communication	行動通訊
+399	mobile network	行動網路
+400	mobile wallet	手機錢包
+401	model	模型
+402	modem	數據機
+403	modulation	調變
+404	module	模組
+405	monitor	顯示器
+406	motherboard	主機板
+407	mouse	滑鼠
+408	MU	記憶單元
+409	multicore	多核心的；多芯的
+410	multiplexer	多工器
+411	nano	奈米
+412	nanosecond	奈秒
+413	NAT	網址解析
+414	network	網路
+415	network address translation	網址解析
+416	network interface card	網路介面卡
+417	network operating system	網路作業系統
+418	network server	網路伺服器
+419	network terminal	網路終端機
+420	NIC	網路卡
+421	NII	國家資訊基礎建設
+422	node	節點
+423	Nokia	諾基亞
+424	non-repudiation	不可否認性
+425	normalization	正規化
+426	notebook	筆記型電腦
+427	N-tier client-server architecture	多層式主從式架構
+428	OA	辦公室自動化
+429	object	物件
+430	object-oriented language	物件導向語言
+431	OCR	光學字元辨識軟體
+432	office automation	辦公室自動化
+433	offine	離線
+434	offshoring	境外（委外或外包）
+435	OLAP	線上分析處理
+436	OLE	物件連結與崁入
+437	OLTP	線上交易處理
+438	on-demand	隨需；即需
+439	online analytical processing	線上分析處理
+440	online transaction	線上交易
+441	online transaction processing	線上交易處理
+442	open source	開放原始碼
+443	open standard	開放式標準
+444	open system	開放式系統
+445	operating system	作業系統
+446	operation	營運
+447	optical disc	光碟
+448	optimization	優化；最佳化
+449	option button	選項按鈕
+450	OSI	開放式系統互聯
+451	OSI model	開放式系統互聯模型
+452	OU	輸出單元
+453	output	輸出
+454	output unit	輸出單元
+455	outsourcing	外包
+456	P2P	點對點對等式
+457	pad	平板；墊子
+458	pages per minute	每分鐘列印的頁數
+459	parallel transmission	並列傳輸
+460	parameter	參數
+461	password	密碼
+462	patch	軟體修補；補丁
+463	patent	專利；有專利的
+464	payment	付費
+465	PC	個人電腦
+466	PCI	周邊元件（擴充槽）
+467	PDA	個人數位助理
+468	people resource	人力資源
+469	peripheral	周邊設備
+470	personal computer	個人電腦
+471	personal information	個人資訊
+472	pharming	網域欺騙技術
+473	phishing	網路釣魚
+474	pivot table	樞紐分析表
+475	pixel	像素；畫素
+476	plan	計畫
+477	PnP	隨插即用
+478	point-point protocol	點對點協定
+479	POP	處理郵件通訊協定
+480	portability	可攜型
+481	portable computer	筆記型電腦
+482	portal	入口網站
+483	POS	銷售時點（管理）
+484	POST	開機自我測試
+485	post office protocol	收信協定
+486	power cord	電源線
+487	power supply	電源供應器
+488	power-on self test	開機自我測試
+489	PPM	每分鐘列印的頁數
+490	PPTP	點對點通道協定
+491	presentation	簡報；報告；介紹
+492	primary key	主鍵（欄位）
+493	primary partition	主要分割區
+494	printer	印表機
+495	private	私有的
+496	private key	私密金鑰
+497	procedure	程序
+498	process	過程；處理
+499	process control system	流程控制系統
+500	processor	處理器
+501	production	生產
+502	progam	程式
+503	programming	程式設計
+504	programming language	程式語言
+505	project	專案
+506	projector	投影機
+507	property	屬性；財產；所有權；內容
+508	protocol	協定
+509	pseudo code	虛擬碼
+510	PSTN	公眾電話網路
+511	public key	公開金鑰
+512	QRcode	二維碼
+513	queue	佇列
+514	quick response code	快速反應二維碼
+515	quick sort	快速排序法
+516	radio frequency	無線電射頻
+517	RAID	陣列
+518	RAM	隨機存取記憶體
+519	radom access memory	隨機存取記憶體
+520	read-only memory	唯讀記憶體
+521	recharge battery	可充電式電池
+522	record	紀錄
+523	recovery	恢復
+524	referential integrity	參照完整性
+525	refresh rate	更新率
+526	relational database	關聯式資料庫
+527	relational model	關聯式模型
+528	relationship	關係
+529	replication	覆寫；複製品
+530	requirement	需求；要求
+531	resolution	解析度；分辨率
+532	revenue model	獲利模式；收入模式
+533	RFID	無線電辨識
+534	ring	環狀
+535	risk	風險
+536	ROM	唯讀記憶體
+537	router	路由器
+538	routing	規劃路徑
+539	RPM	每分鐘旋轉圈數
+540	SaaS	軟體即時服務
+541	Samsung	三星
+542	SATA	串列先進科技附加排線
+543	satellite	通訊衛星
+544	scanner	掃描器
+545	SCM	供應鏈管理
+546	SCSI	小型電腦系統介面
+547	SD	安全數位卡
+548	SDHC	安全數位高容量卡
+549	SDLC	系統開發生命週期
+550	SDRAM	同步動態隨機存取記憶體
+551	SDXC	安全數位延伸高容量卡
+552	search engine	搜尋引擎
+553	secondary storge	次級儲存體
+554	sector	磁區
+555	secure digital	安全數位卡
+556	secure digital extended capacity	安全數位延伸高容量卡
+557	secure digital high capacity	安全數位高容量卡
+558	secure electronic transactions	安全電子交易
+559	semiconductor memory	半導體記憶體
+560	senior	資深的；長輩
+561	serial port	序列埠
+562	serial transmission	串列傳輸
+563	server	伺服器
+564	SET	安全電子交易
+565	shareware	共享軟體
+566	show	顯示
+567	six sigma	六個標準差
+568	sizing handles	尺寸（大小）
+569	Skype	通訊軟體
+570	slide	投影片
+571	smart card	智慧卡
+572	smart phone	智慧型電話
+573	sniffer	網路監聽
+574	software	軟體
+575	software resource	軟體資源
+576	solid state	固態
+577	sort	排序
+578	spam	垃圾郵件
+579	specification	規範式算表軟體
+580	spreadsheet software	試算表軟體
+581	SQL	結構話查詢語言
+582	SRAM	靜態隨機存取記憶體
+583	standby mode	待命模式
+584	star	星狀
+585	statement	敘述
+586	storage	儲存；貯藏庫；存儲
+587	strategy	策略；戰略
+588	structure	結構化
+589	swapping	交換；交換技術
+590	switch	交換器
+591	system	系統
+592	systems specification	系統規格
+593	table	表格
+594	task	工作；任務
+595	TB	兆位元組
+596	TCP	傳輸控制協定
+597	TCP/IP	傳輸控制協定／網路協定
+598	technical feasibility	技術可行性
+599	technology	科技；技術；工藝
+600	telecommunication media	電信通訊媒體
+601	telecommunication network	電信通訊網路
+602	telecommunication software	電信通訊軟體
+603	telnet	遠端登入
+604	terabyte	兆位元組
+605	terminal	終端機
+606	text	文字
+607	textbox	文字方塊
+608	THz	兆赫茲
+609	timer	計時器
+610	transistor	電晶體
+611	transparency	透明度；幻燈片
+612	TRUE	真
+613	unicode	萬國碼
+614	upstream	或；升級
+615	upload	上傳
+616	upstream	上游的；向上串流的
+617	URL	統一資源位址
+618	USB	萬用序列匯流排
+619	user name	用戶名稱
+620	utility	工具程式或公用程式
+621	value chain model	價值鏈模型
+622	variable	變數
+623	vector	向量
+624	virtual	虛擬的
+625	virus	病毒
+626	visualization	視覺化；形象化
+627	VOD	隨選視訊系統
+628	VoIP	透過IP做語音傳送
+629	WAN	廣域網路
+630	warehouse	倉儲；倉庫
+631	webcam	網路攝像機
+632	weblog	網誌；網站的紀錄
+633	WEP	有線等效加密（協定）
+634	wiki	維基（百科全書）
+635	window	視窗
+636	Windows	微軟公司開發的作業系統
+637	wireless	無線
+638	wireless LAN	無線區域網路（LAN）
+639	wireless technology	無線科技
+640	wizard	精靈
+641	word processing	文字書處理
+642	worm	蠕蟲
+643	WWW	全球資訊網
+644	XML	延伸性標示語言
+645	YouTube	專門放影片的軟體
+
